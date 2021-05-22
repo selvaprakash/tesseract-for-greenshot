@@ -1,0 +1,1 @@
+setx /M path "%PATH%;C:\Program Files\Tesseract-OCR"
